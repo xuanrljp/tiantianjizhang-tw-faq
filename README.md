@@ -7,9 +7,9 @@
 
 &#x20;**AppStore連結： https://apps.apple.com/app/id954944283**
 
-**如果您的發票功能沒有開啟，請從天天記帳的設定 > 建議與希望聯繫我們。**
+<mark style="color:blue;">**如果您的發票功能沒有開啟，請從天天記帳的設定 > 建議與希望聯繫我們。**</mark>
 
-**或把這個介面UUID欄目的前8碼直接郵至swalloworks@gmail.com**
+<mark style="color:blue;">**或把這個介面UUID欄目的前8碼直接郵至swalloworks@gmail.com**</mark>
 
 **祝好，**&#x20;
 
