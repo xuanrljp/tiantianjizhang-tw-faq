@@ -33,6 +33,7 @@
 * [CSV無法匯出，怎麼辦？](csv-wu-fa-hui-chu-zen-mo-ban.md)
 * [備份失敗。ERROR：無法將「kakeiboData.zip」搬移至「Document」，因為前者不存在，或包含後者的資料夾不存在。](bei-fen-shi-bai-error-wu-fa-jiang-kakeibodata.zip-ban-yi-zhi-document-yin-wei-qian-zhe-bu-cun-zai-hu.md)
 * [為什麼新手機看不到舊手機的備份檔](wei-shi-mo-xin-shou-ji-kan-bu-dao-jiu-shou-ji-de-bei-fen-dang.md)
+* [可以和家人朋友共用帳本共同記帳嗎？](ke-yi-he-jia-ren-peng-you-gong-yong-zhang-ben-gong-tong-ji-zhang-ma.md)
+* [為何購買去除廣告，上面依然有廣告出現？](wei-he-gou-mai-qu-chu-guang-gao-shang-mian-yi-ran-you-guang-gao-chu-xian.md)
 * [更新後APP無法開啟，如何解決？](geng-xin-hou-app-wu-fa-kai-qi-ru-he-jie-jue.md)
 * [如何登出AppleID](ru-he-deng-chu-appleid.md)
-* [為何購買去除廣告，上面依然有廣告出現？](wei-he-gou-mai-qu-chu-guang-gao-shang-mian-yi-ran-you-guang-gao-chu-xian.md)
