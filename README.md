@@ -42,6 +42,10 @@
 [ke-yi-fen-liang-ge-zhang-bu-ji-zhang-ma-yi-ge-si-ren-yong-yi-ge-gong-si-yong.md](ke-yi-fen-liang-ge-zhang-bu-ji-zhang-ma-yi-ge-si-ren-yong-yi-ge-gong-si-yong.md)
 {% endcontent-ref %}
 
+{% content-ref url="ke-yi-fu-zhi-yi-you-zhang-ben-de-lei-bie-zhang-hu-deng-she-ding-dao-xin-zhang-ben-ma.md" %}
+[ke-yi-fu-zhi-yi-you-zhang-ben-de-lei-bie-zhang-hu-deng-she-ding-dao-xin-zhang-ben-ma.md](ke-yi-fu-zhi-yi-you-zhang-ben-de-lei-bie-zhang-hu-deng-she-ding-dao-xin-zhang-ben-ma.md)
+{% endcontent-ref %}
+
 {% content-ref url="bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md" %}
 [bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md](bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md)
 {% endcontent-ref %}
