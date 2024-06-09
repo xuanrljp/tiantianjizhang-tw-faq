@@ -3,6 +3,7 @@
 * [FAQ](README.md)
 * [類別可以修改和刪除嗎?](lei-bie-ke-yi-xiu-gai-he-shan-chu-ma.md)
 * [類別能分大類別和小類別管理嗎？](lei-bie-neng-fen-da-lei-bie-he-xiao-lei-bie-guan-li-ma.md)
+* [類別怎麼排序？](lei-bie-zen-mo-pai-xu.md)
 * [帳戶可以排序嗎？](zhang-hu-ke-yi-pai-xu-ma.md)
 * [可以自訂增加不同帳戶嗎？](ke-yi-zi-ding-zeng-jia-bu-tong-zhang-hu-ma.md)
 * [可以分兩個帳簿記帳嗎？一個私人用，一個公司用。](ke-yi-fen-liang-ge-zhang-bu-ji-zhang-ma-yi-ge-si-ren-yong-yi-ge-gong-si-yong.md)
