@@ -30,6 +30,14 @@
 [lei-bie-neng-fen-da-lei-bie-he-xiao-lei-bie-guan-li-ma.md](lei-bie-neng-fen-da-lei-bie-he-xiao-lei-bie-guan-li-ma.md)
 {% endcontent-ref %}
 
+{% content-ref url="lei-bie-zen-mo-pai-xu.md" %}
+[lei-bie-zen-mo-pai-xu.md](lei-bie-zen-mo-pai-xu.md)
+{% endcontent-ref %}
+
+{% content-ref url="shou-zhi-ji-lu-ke-yi-pai-xu-ma.md" %}
+[shou-zhi-ji-lu-ke-yi-pai-xu-ma.md](shou-zhi-ji-lu-ke-yi-pai-xu-ma.md)
+{% endcontent-ref %}
+
 {% content-ref url="zhang-hu-ke-yi-pai-xu-ma.md" %}
 [zhang-hu-ke-yi-pai-xu-ma.md](zhang-hu-ke-yi-pai-xu-ma.md)
 {% endcontent-ref %}
