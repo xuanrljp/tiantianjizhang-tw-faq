@@ -154,6 +154,10 @@
 [csv-wu-fa-hui-chu-zen-mo-ban.md](csv-wu-fa-hui-chu-zen-mo-ban.md)
 {% endcontent-ref %}
 
+{% content-ref url="ru-he-hui-ru-qi-ta-app-de-csv-dang-an.md" %}
+[ru-he-hui-ru-qi-ta-app-de-csv-dang-an.md](ru-he-hui-ru-qi-ta-app-de-csv-dang-an.md)
+{% endcontent-ref %}
+
 {% content-ref url="bei-fen-shi-bai-error-wu-fa-jiang-kakeibodata.zip-ban-yi-zhi-document-yin-wei-qian-zhe-bu-cun-zai-hu.md" %}
 [bei-fen-shi-bai-error-wu-fa-jiang-kakeibodata.zip-ban-yi-zhi-document-yin-wei-qian-zhe-bu-cun-zai-hu.md](bei-fen-shi-bai-error-wu-fa-jiang-kakeibodata.zip-ban-yi-zhi-document-yin-wei-qian-zhe-bu-cun-zai-hu.md)
 {% endcontent-ref %}
