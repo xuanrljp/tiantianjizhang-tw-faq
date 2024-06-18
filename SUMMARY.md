@@ -35,6 +35,7 @@
 * [如何將資料轉移到Android手機上？](ru-he-jiang-zi-liao-zhuan-yi-dao-android-shou-ji-shang.md)
 * [如何匯出照片？](ru-he-hui-chu-zhao-pian.md)
 * [CSV無法匯出，怎麼辦？](csv-wu-fa-hui-chu-zen-mo-ban.md)
+* [如何匯入其他App的CSV檔案？](ru-he-hui-ru-qi-ta-app-de-csv-dang-an.md)
 * [備份失敗。ERROR：無法將「kakeiboData.zip」搬移至「Document」，因為前者不存在，或包含後者的資料夾不存在。](bei-fen-shi-bai-error-wu-fa-jiang-kakeibodata.zip-ban-yi-zhi-document-yin-wei-qian-zhe-bu-cun-zai-hu.md)
 * [為什麼新手機看不到舊手機的備份檔](wei-shi-mo-xin-shou-ji-kan-bu-dao-jiu-shou-ji-de-bei-fen-dang.md)
 * [可以和家人朋友共用帳本共同記帳嗎？](ke-yi-he-jia-ren-peng-you-gong-yong-zhang-ben-gong-tong-ji-zhang-ma.md)
