@@ -41,5 +41,4 @@
 * [可以和家人朋友共用帳本共同記帳嗎？](ke-yi-he-jia-ren-peng-you-gong-yong-zhang-ben-gong-tong-ji-zhang-ma.md)
 * [為何購買去除廣告，上面依然有廣告出現？](wei-he-gou-mai-qu-chu-guang-gao-shang-mian-yi-ran-you-guang-gao-chu-xian.md)
 * [更新後APP無法開啟，如何解決？](geng-xin-hou-app-wu-fa-kai-qi-ru-he-jie-jue.md)
-* [アプリの言語が韓国語になってしまいました。日本語に戻すにはどうすればいいですか？](apurinoganinatteshimaimashitanisunihadousurebaiidesuka.md)
 * [如何登出AppleID](ru-he-deng-chu-appleid.md)
