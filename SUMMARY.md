@@ -14,6 +14,7 @@
 * [請問有載具雲端發票匯入功能嗎？](qing-wen-you-zai-ju-yun-duan-fa-piao-hui-ru-gong-neng-ma.md)
 * [電子發票紀錄取得失敗,怎麼辦？](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md)
 * [搜尋收支時，可以按分類或者金額範圍搜尋嗎？](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
+* [星號記錄功能如何使用？](xing-hao-ji-lu-gong-neng-ru-he-shi-yong.md)
 * [資產淨值、負債和總資產是如何計算的？](zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md)
 * [如何設定帳戶初始金額？](ru-he-she-ding-zhang-hu-chu-shi-jine.md)
 * [如何用外幣記帳？](ru-he-yong-wai-bi-ji-zhang.md)
