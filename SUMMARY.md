@@ -23,6 +23,7 @@
 * [信用卡消費如何記帳比較好？](xin-yong-ka-xiao-fei-ru-he-ji-zhang-bi-jiao-hao.md)
 * [信用卡自動繳款如何設定？](xin-yong-ka-zi-dong-jiao-kuan-ru-he-she-ding.md)
 * [信用卡分期如何設定](xin-yong-ka-fen-qi-ru-he-she-ding.md)
+* [信用卡分期可以調整到12期嗎？](xin-yong-ka-fen-qi-ke-yi-diao-zheng-dao-12-qi-ma.md)
 * [請問支出圓餅圖以外，還有什麼圖表？](qing-wen-zhi-chu-yuan-bing-tu-yi-wai-huan-you-shi-mo-tu-biao.md)
 * [請問可以查看單一類別的花費趨勢嗎？](qing-wen-ke-yi-cha-kan-dan-yi-lei-bie-de-hua-fei-qu-shi-ma.md)
 * [為什麼部分支出資料沒有在圖表裡面？](wei-shi-mo-bu-fen-zhi-chu-zi-liao-mei-you-zai-tu-biao-li-mian.md)
