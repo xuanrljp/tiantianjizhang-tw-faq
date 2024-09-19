@@ -38,6 +38,10 @@
 [shou-zhi-ji-lu-ke-yi-pai-xu-ma.md](shou-zhi-ji-lu-ke-yi-pai-xu-ma.md)
 {% endcontent-ref %}
 
+{% content-ref url="sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md" %}
+[sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
+{% endcontent-ref %}
+
 {% content-ref url="zhang-hu-ke-yi-pai-xu-ma.md" %}
 [zhang-hu-ke-yi-pai-xu-ma.md](zhang-hu-ke-yi-pai-xu-ma.md)
 {% endcontent-ref %}
@@ -68,10 +72,6 @@
 
 {% content-ref url="dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md" %}
 [dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md)
-{% endcontent-ref %}
-
-{% content-ref url="sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md" %}
-[sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md](sou-xun-shou-zhi-shi-ke-yi-an-fen-lei-huo-zhe-jinefan-wei-sou-xun-ma.md)
 {% endcontent-ref %}
 
 {% content-ref url="xing-hao-ji-lu-gong-neng-ru-he-shi-yong.md" %}
