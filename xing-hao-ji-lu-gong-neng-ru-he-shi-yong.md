@@ -12,6 +12,9 @@
 2.  查看時，點行事曆介面右上第二個按鈕，然後選擇“星號記錄”
 
     ![list](.gitbook/assets/star2-tw.png)
-3.  複製時，點星號記錄清單中右側的拷貝按鈕，就可以把常用消費拷貝到記帳介面
+3.  記帳時，點「星號」按鈕，然後選擇記錄即可複製使用
 
-    ![list](.gitbook/assets/star3\_tw.png)
+    ![list](.gitbook/assets/tw-star-copy2.PNG)![list](.gitbook/assets/tw-star-copy3.PNG)
+
+
+
