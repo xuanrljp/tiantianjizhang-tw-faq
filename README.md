@@ -74,6 +74,10 @@
 [dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md)
 {% endcontent-ref %}
 
+{% content-ref url="shi-yong-dian-zi-fa-piao-gong-neng-shi-tiao-chu-si-fu-qi-ping-zheng-wu-xiao-ke-neng-zao-dao-mao-yong.md" %}
+[shi-yong-dian-zi-fa-piao-gong-neng-shi-tiao-chu-si-fu-qi-ping-zheng-wu-xiao-ke-neng-zao-dao-mao-yong.md](shi-yong-dian-zi-fa-piao-gong-neng-shi-tiao-chu-si-fu-qi-ping-zheng-wu-xiao-ke-neng-zao-dao-mao-yong.md)
+{% endcontent-ref %}
+
 {% content-ref url="xing-hao-ji-lu-gong-neng-ru-he-shi-yong.md" %}
 [xing-hao-ji-lu-gong-neng-ru-he-shi-yong.md](xing-hao-ji-lu-gong-neng-ru-he-shi-yong.md)
 {% endcontent-ref %}
