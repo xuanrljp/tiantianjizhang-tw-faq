@@ -14,6 +14,7 @@
 * [新增收支時，日期是否可預設為今日?](xin-zeng-shou-zhi-shi-ri-qi-shi-fou-ke-yu-she-wei-jin-ri.md)
 * [請問有載具雲端發票匯入功能嗎？](qing-wen-you-zai-ju-yun-duan-fa-piao-hui-ru-gong-neng-ma.md)
 * [電子發票紀錄取得失敗,怎麼辦？](dian-zi-fa-piao-ji-lu-qu-de-shi-bai-zen-mo-ban.md)
+* [使用電子發票功能時跳出「伺服器憑證無效／可能遭到冒用 api.einvoice.nat.gov.tw」的警告，該怎麼辦？](shi-yong-dian-zi-fa-piao-gong-neng-shi-tiao-chu-si-fu-qi-ping-zheng-wu-xiao-ke-neng-zao-dao-mao-yong.md)
 * [為什麼之前可以匯入雲端發票，現在就不行了？](wei-shen-mo-zhi-qian-ke-yi-hui-ru-yun-duan-fa-piao-xian-zai-jiu-bu-xing-le.md)
 * [星號記錄功能如何使用？](xing-hao-ji-lu-gong-neng-ru-he-shi-yong.md)
 * [資產淨值、負債和總資產是如何計算的？](zi-chan-jing-zhi-fu-zhai-he-zong-zi-chan-shi-ru-he-ji-suan-de.md)
