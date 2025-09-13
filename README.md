@@ -1,21 +1,5 @@
 # FAQ
 
-{% hint style="info" %}
-**Happy new year，感謝使用天天記帳。**
-
-### <mark style="color:green;">**電子發票匯入和發票掃描功能已經恢復，麻煩更新到最新版本6.6.1。**</mark>
-
-&#x20;**AppStore連結： https://apps.apple.com/app/id954944283**
-
-<mark style="color:blue;">**如果您的發票功能沒有開啟，請從天天記帳的設定 > 建議與希望聯繫我們。**</mark>
-
-<mark style="color:blue;">**或把這個介面UUID欄目的前8碼直接郵至swalloworks@gmail.com**</mark>
-
-**祝好，**&#x20;
-
-**天天記帳敬上**。
-{% endhint %}
-
 {% hint style="warning" %}
 #### 注意: 部分使用者更新APP後，出現了無法開啟的問題。&#x20;
 
