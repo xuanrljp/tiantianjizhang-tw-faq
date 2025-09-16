@@ -21,14 +21,20 @@
 
 ※前往天天記帳的設定 > **Google Dirvie 資料備份轉移**
 
-![list](.gitbook/assets/googledrive1.PNG)&#x20;
+如果沒有Google帳號，可以用「**iCloud資料備份轉移**」功能
 
-## 3.刪除重新安裝App
+## 3.不刪除重新安裝App
 
-## 4.回復備份
+3.1.前往iPhone的「設定」> 「一般」>「 iPhone儲存空間」&#x20;
 
-再次前往天天記帳的設定 > **Google Dirvie 資料備份轉移**恢復備份
+3.2.選擇天天記帳&#x20;
 
-![list](.gitbook/assets/googledrive2.PNG)&#x20;
+3.3.按 「卸載App 按鈕」&#x20;
+
+※不同於刪除，卸載會保留記帳資料&#x20;
+
+![list](<.gitbook/assets/tw-reinstall (1).PNG>)&#x20;
+
+3.4. 重新安裝最新正式版
 
 如果上述不能解決問題,請直接聯繫swalloworks@gmail.com
