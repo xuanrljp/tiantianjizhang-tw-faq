@@ -42,8 +42,8 @@
 [ke-yi-fu-zhi-yi-you-zhang-ben-de-lei-bie-zhang-hu-deng-she-ding-dao-xin-zhang-ben-ma.md](ke-yi-fu-zhi-yi-you-zhang-ben-de-lei-bie-zhang-hu-deng-she-ding-dao-xin-zhang-ben-ma.md)
 {% endcontent-ref %}
 
-{% content-ref url="bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md" %}
-[bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md](bei-zhu-ke-yi-cong-li-shi-ji-lu-zhong-xuan-ze-shu-ru-ma.md)
+{% content-ref url="bei-zhu-ke-yi-cong-zhi-qian-shu-ru-guo-de-nei-rong-xuan-ma.md" %}
+[bei-zhu-ke-yi-cong-zhi-qian-shu-ru-guo-de-nei-rong-xuan-ma.md](bei-zhu-ke-yi-cong-zhi-qian-shu-ru-guo-de-nei-rong-xuan-ma.md)
 {% endcontent-ref %}
 
 {% content-ref url="xin-zeng-shou-zhi-shi-ri-qi-shi-fou-ke-yu-she-wei-jin-ri.md" %}

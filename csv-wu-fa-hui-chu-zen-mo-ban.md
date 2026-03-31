@@ -23,6 +23,5 @@
 如果【郵件】APP沒問題，請參考下面的Apple的官方教學，檢查一下電子郵件設定。
 
 將電子郵件帳號新增到 iPhone、iPad 或 iPod touch\
-[https://support.apple.com/zh-tw/HT201320](https://support.apple.com/zh-tw/HT201320)\
-
+[https://support.apple.com/zh-tw/HT201320](https://support.apple.com/zh-tw/HT201320)<br>
 

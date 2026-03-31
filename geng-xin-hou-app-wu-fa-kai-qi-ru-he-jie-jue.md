@@ -4,8 +4,7 @@
 
 ## 1.下載測試版本Ver7.6
 
-1.1. 點開下面的連結，按指示參加Beta測試，並下載TestFlight這個Apple提供的App\
-
+1.1. 點開下面的連結，按指示參加Beta測試，並下載TestFlight這個Apple提供的App<br>
 
 [https://testflight.apple.com/join/D2BUChQ6](https://testflight.apple.com/join/D2BUChQ6)
 
