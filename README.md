@@ -1,9 +1,9 @@
 # FAQ
 
 {% hint style="warning" %}
-#### 注意: 部分使用者更新APP後，出現了無法開啟的問題。&#x20;
+#### 注意：部分使用者更新 App 後，出現無法開啟的問題。&#x20;
 
-#### 如果您也遇到了這個問題，請參考【[更新後APP無法開啟，如何解決？](geng-xin-hou-app-wu-fa-kai-qi-ru-he-jie-jue.md)】
+#### 如果您也遇到這個問題，請參考【[更新後 App 無法開啟，如何解決？](geng-xin-hou-app-wu-fa-kai-qi-ru-he-jie-jue.md)】
 {% endhint %}
 
 {% content-ref url="lei-bie-ke-yi-xiu-gai-he-shan-chu-ma.md" %}

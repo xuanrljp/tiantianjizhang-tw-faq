@@ -1,12 +1,12 @@
-# 如何用FaceID等生物辨識鎖？
+# 如何用 Face ID 等生物辨識解鎖？
 
-天天記帳的圖案鎖可以配合FaceID使用。
+天天記帳的圖案鎖可以搭配 Face ID 使用。
 
-只要開啟FaceID選項就可以用FaceID來解鎖。
+只要開啟 Face ID 選項，即可用 Face ID 解鎖。
 
 ![list](.gitbook/assets/tw-faceid.PNG)
 
-### ※如果FaceID解鎖的選項沒有顯示，請檢查iPhone的FaceD設定
+### ※如果沒有顯示 Face ID 解鎖選項，請檢查 iPhone 的 Face ID 設定
 
 ### 檢查 Face ID 設定
 

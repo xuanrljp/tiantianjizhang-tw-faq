@@ -1,17 +1,17 @@
-# 不小心刪除的帳本可以恢復嗎？
+# 不小心刪除的帳本可以還原嗎？
 
-可以恢復的。
+可以。
 
-但需要您傳送1份資料給開發者，然後開發者這邊可以做恢復。
+但需要您先將資料傳送給開發者，我們才能協助還原。
 
-**■傳送資料方法如下**
+**■傳送資料方式如下**
 
-前往天天記帳設定 > 傳送資料給開發者，然後點傳送，並發出郵件
+前往天天記帳設定 > 傳送資料給開發者，點選「傳送」並寄出郵件。
 
 
 
 {% hint style="warning" %}
-<mark style="color:red;">請務必在郵件裡</mark><mark style="color:red;">**寫明目的**</mark><mark style="color:red;">是為了【</mark><mark style="color:red;">**恢復刪除帳本**</mark><mark style="color:red;">】</mark>
+<mark style="color:red;">請務必在郵件中註明用途：【</mark><mark style="color:red;">**還原已刪除的帳本**</mark><mark style="color:red;">】</mark>
 {% endhint %}
 
 \
