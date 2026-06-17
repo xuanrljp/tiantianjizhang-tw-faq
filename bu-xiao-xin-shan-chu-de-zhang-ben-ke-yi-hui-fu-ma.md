@@ -1,8 +1,8 @@
-# 不小心刪除的帳本可以還原嗎？
+# 不小心刪除的帳本可以恢復嗎？
 
 可以。
 
-但需要您先將資料傳送給開發者，我們才能協助還原。
+但需要您先將資料傳送給開發者，我們才能協助恢復。
 
 **■傳送資料方式如下**
 
@@ -11,7 +11,7 @@
 
 
 {% hint style="warning" %}
-<mark style="color:red;">請務必在郵件中註明用途：【</mark><mark style="color:red;">**還原已刪除的帳本**</mark><mark style="color:red;">】</mark>
+<mark style="color:red;">請務必在郵件中寫明目的：【</mark><mark style="color:red;">**恢復已刪除的帳本**</mark><mark style="color:red;">】</mark>
 {% endhint %}
 
 \

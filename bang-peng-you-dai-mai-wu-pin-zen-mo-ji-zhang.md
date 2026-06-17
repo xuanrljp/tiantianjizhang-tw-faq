@@ -14,6 +14,6 @@
 
 ![list](.gitbook/assets/tw-lend2.png)![list](.gitbook/assets/tw-lend3.png)
 
-3. 如果對方用現金還款，請記一筆轉帳，將金額從【應收款】轉回【現金】帳戶。
+3. 如果對方用現金還款，請記一筆轉帳，將錢從【應收款】轉回【現金】帳戶。
 
 ![list](.gitbook/assets/tw-lend4.png)![list](.gitbook/assets/tw-lend5.png)
