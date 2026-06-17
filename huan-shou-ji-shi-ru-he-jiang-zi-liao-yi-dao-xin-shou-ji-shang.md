@@ -21,7 +21,7 @@
 ※建議在 Wi-Fi 環境下操作
 
 **2. 新手機開啟天天記帳 App，還原備份**\
-![list](.gitbook/assets/tw-move-data-to-new-phone1.png)![list](.gitbook/assets/tw-move-data-to-new-phone2.png)<br>
+![list](.gitbook/assets/tw-move-data-to-new-phone1.png)![list](<.gitbook/assets/image (3).avif>)<br>
 
 #### **方法 2 -** 購買 iCloud 雲帳本功能（3 美元），再將本機帳本全部改為 iCloud 雲帳本。
 
