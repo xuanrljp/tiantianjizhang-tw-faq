@@ -29,7 +29,7 @@
 * [請問可以查看單一類別的花費趨勢嗎？](qing-wen-ke-yi-cha-kan-dan-yi-lei-bie-de-hua-fei-qu-shi-ma.md)
 * [為什麼部分支出資料沒有出現在圖表裡？](wei-shi-mo-bu-fen-zhi-chu-zi-liao-mei-you-zai-tu-biao-li-mian.md)
 * [下方類別預算減少時，為什麼上方總預算不會跟著變？](xia-fang-lei-bie-yu-suan-you-jian-shao-de-shi-hou-wei-shi-mo-shang-mian-de-zong-yu-suan-bu-hui-gen-z.md)
-* [不小心刪除的帳本可以還原嗎？](bu-xiao-xin-shan-chu-de-zhang-ben-ke-yi-hui-fu-ma.md)
+* [不小心刪除的帳本可以恢復嗎？](bu-xiao-xin-shan-chu-de-zhang-ben-ke-yi-hui-fu-ma.md)
 * [帳本如何設定密碼？](qing-wen-zhang-ben-ru-he-she-ding-mi-ma.md)
 * [如何用 Face ID 等生物辨識解鎖？](ru-he-yong-faceid-deng-sheng-wu-bian-shi-suo.md)
 * [圖案鎖忘記了怎麼辦？](tu-an-suo-wang-ji-le-zen-mo-ban.md)
