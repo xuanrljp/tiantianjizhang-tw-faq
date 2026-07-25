@@ -13,7 +13,7 @@
    1. 前往天天記帳的設定 > 雲端發票匯入
    2.  點選右上角【手機條碼】按鈕
 
-       ![list](<.gitbook/assets/Simulator Screenshot - iPhone 17 Pro - 2026-07-25 at 10.41.52.png>)
+       ![](<.gitbook/assets/Simulator Screenshot - iPhone 17 Pro - 2026-07-25 at 10.41.52.png>)
    3.  點「編輯」按鈕後，再點選要變更驗證碼的手機條碼
 
 
@@ -21,6 +21,6 @@
        ![](<.gitbook/assets/Simulator Screenshot - iPhone 17 Pro - 2026-07-25 at 10.42.20.png>)
    4.  輸入新的驗證碼，點選「儲存」按鈕
 
-       ![list](<.gitbook/assets/Simulator Screenshot - iPhone 17 Pro - 2026-07-25 at 10.42.44.png>)
+       ![](<.gitbook/assets/Simulator Screenshot - iPhone 17 Pro - 2026-07-25 at 10.42.44.png>)
 
 如果以上方式仍無法解決，請直接聯絡 swalloworks@gmail.com。
