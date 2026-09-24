@@ -37,6 +37,7 @@
 * [借入應該怎麼記帳？](jie-ru-ying-gai-zen-mo-ji-zhang.md)
 * [換手機時，如何將資料移到新手機上？](huan-shou-ji-shi-ru-he-jiang-zi-liao-yi-dao-xin-shou-ji-shang.md)
 * [如何將資料轉移到 Android 手機上？](ru-he-jiang-zi-liao-zhuan-yi-dao-android-shou-ji-shang.md)
+* [如何將資料備份到 Google Drive？](ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md)
 * [如何匯出照片？](ru-he-hui-chu-zhao-pian.md)
 * [CSV 無法匯出，怎麼辦？](csv-wu-fa-hui-chu-zen-mo-ban.md)
 * [如何匯入其他 App 的 CSV 檔案？](ru-he-hui-ru-qi-ta-app-de-csv-dang-an.md)

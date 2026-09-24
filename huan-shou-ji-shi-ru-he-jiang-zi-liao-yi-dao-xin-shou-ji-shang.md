@@ -23,7 +23,15 @@
 **2. 新手機開啟天天記帳 App，還原備份**\
 ![list](.gitbook/assets/tw-move-data-to-new-phone1.png)![list](<.gitbook/assets/image (3).avif>)<br>
 
-#### **方法 2 -** 購買 iCloud 雲帳本功能（3 美元），再將本機帳本全部改為 iCloud 雲帳本。
+#### **方法 2 - 使用天天記帳的 Google Drive 資料備份轉移功能**
+
+詳細請參考
+
+{% content-ref url="ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md" %}
+[ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md](ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md)
+{% endcontent-ref %}
+
+#### **方法 3 -** 購買 iCloud 雲帳本功能（3 美元），再將本機帳本全部改為 iCloud 雲帳本。
 
 之後在新手機開啟天天記帳時，資料就會自動從雲端同步。\
 **iCloud 雲帳本的使用方式如下：**
