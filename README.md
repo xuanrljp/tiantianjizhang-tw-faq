@@ -1,7 +1,7 @@
 # FAQ
 
 {% hint style="warning" %}
-#### 注意：部分使用者更新 App 後，出現無法開啟的問題。&#x20;
+#### 注意：部分使用者更新 App 後，出現無法開啟的問題。
 
 #### 如果您也遇到這個問題，請參考【[更新後 App 無法開啟，如何解決？](geng-xin-hou-app-wu-fa-kai-qi-ru-he-jie-jue.md)】
 {% endhint %}
@@ -140,6 +140,10 @@
 
 {% content-ref url="ru-he-jiang-zi-liao-zhuan-yi-dao-android-shou-ji-shang.md" %}
 [ru-he-jiang-zi-liao-zhuan-yi-dao-android-shou-ji-shang.md](ru-he-jiang-zi-liao-zhuan-yi-dao-android-shou-ji-shang.md)
+{% endcontent-ref %}
+
+{% content-ref url="ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md" %}
+[ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md](ru-he-jiang-zi-liao-bei-fen-dao-google-drive.md)
 {% endcontent-ref %}
 
 {% content-ref url="ru-he-hui-chu-zhao-pian.md" %}
