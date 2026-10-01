@@ -1,6 +1,14 @@
 # FAQ
 
 {% hint style="warning" %}
+## **舊版本App強迫評分問題**
+
+#### 這是App早期版本在 iOS 26 上的已知問題，已於最新版本中修正。
+
+#### 請將天天記帳更新至最新版本： ▶︎ [前往 App Store 更新天天記帳](https://apps.apple.com/app/id954944283)
+{% endhint %}
+
+{% hint style="warning" %}
 #### 注意：部分使用者更新 App 後，出現無法開啟的問題。
 
 #### 如果您也遇到這個問題，請參考【[更新後 App 無法開啟，如何解決？](geng-xin-hou-app-wu-fa-kai-qi-ru-he-jie-jue.md)】
